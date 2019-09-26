@@ -1,5 +1,7 @@
 from django.db import models
+import csv
 
-class Book:
-	
-		
+class MyBookModel(models.Model):
+	title = models.TextField()
+
+
