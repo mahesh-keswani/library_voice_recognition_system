@@ -1,16 +1,22 @@
 {% extends 'base.html' %}
 
 {% block body %}
+<<<<<<< HEAD
 <div class="container">
   <h1 class="text-muted" style="color: white;">You Said</h1>
   <h2>{{input}}</h2>
 </div>
+=======
+<h1 class="text-muted" style="color: white;">You Said</h1>
+<h2>{{input}}</h2>
+>>>>>>> 52728c6a1b545fa665e6e02a964256ea24ac16b6
 <h1 class="text-muted" style="color: white;">Results</h1>
 
 <div class="container">
   {% if results %}
     <h3 class="text-success" style="color: white;"> All Possible Results </h3>
 
+<<<<<<< HEAD
     <table style="color: black;" class="table table-striped">
       <tr>
         <td>ID</td>
@@ -19,10 +25,19 @@
          <td>Issue</td>
       </tr>
       
+=======
+    <table style="color: white;" class="table table-striped">
+      <tr>
+        <td>ID</td>
+        <td>Title</td>
+      </tr>
+
+>>>>>>> 52728c6a1b545fa665e6e02a964256ea24ac16b6
       {% for book in results %}
           <tr>
             <td>{{ book.id }}</td>
             <td>{{ book.title }}</td>
+<<<<<<< HEAD
             <td>{{ book.count }}</td>
             <td>
                  <form action="{% url 'issuebook' %}" method="GET">
@@ -34,6 +49,12 @@
       {% endfor %}
     </table>
        
+=======
+          </tr>
+      {% endfor %}
+    </table>
+
+>>>>>>> 52728c6a1b545fa665e6e02a964256ea24ac16b6
 
 
   {% else %}

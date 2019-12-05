@@ -1,0 +1,438 @@
+,id,title
+0,1,PHP 5 for dummies
+1,2,Linux In a Nutshell
+2,3,The Definitive Guide to MySQL 5
+3,4,Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary
+4,5,Producing open source software : how to run a successful free software project
+5,6,"PostgreSQL : a comprehensive guide to building, programming, and administering PostgreSQL databases"
+6,7,"Web application architecture : principles, protocols, and practices"
+7,8,Ajax : creating Web pages with asynchronous JavaScript and XML
+8,9,The organization of information
+9,10,Library and Information Center Management
+10,11,Information Architecture for the World Wide Web: Designing Large-Scale Web Sites
+11,12,Corruption and development
+12,13,Corruption and development : the anti-corruption campaigns
+13,14,Pigs at the trough : how corporate greed and political corruption are undermining America
+14,15,"Lords of poverty : the power, prestige, and corruption of the international aid business"
+15,16,Fundamentals of Wavelets
+16,17,Data Smart
+17,18,God Created the Integers
+18,19,Superfreakonomics
+19,20,Orientalism
+20,21,"Nature of Statistical Learning Theory, The"
+21,22,Integration of the Indian States
+22,23,"Drunkard's Walk, The"
+23,24,Image Processing & Mathematical Morphology
+24,25,How to Think Like Sherlock Holmes
+25,26,Data Scientists at Work
+26,27,Slaughterhouse Five
+27,28,Birth of a Theorem
+28,29,Structure & Interpretation of Computer Programs
+29,30,"Age of Wrath, The"
+30,31,"Trial, The"
+31,32,Statistical Decision Theory'
+32,33,Data Mining Handbook
+33,34,"New Machiavelli, The"
+34,35,Physics & Philosophy
+35,36,Making Software
+36,37,"Analysis, Vol I"
+37,38,Machine Learning for Hackers
+38,39,"Signal and the Noise, The"
+39,40,Python for Data Analysis
+40,41,Introduction to Algorithms
+41,42,"Beautiful and the Damned, The"
+42,43,"Outsider, The"
+43,44,"Complete Sherlock Holmes, The - Vol I"
+44,45,"Complete Sherlock Holmes, The - Vol II"
+45,46,"Wealth of Nations, The"
+46,47,"Pillars of the Earth, The"
+47,48,Mein Kampf
+48,49,"Tao of Physics, The"
+49,50,Surely You're Joking Mr Feynman
+50,51,"Farewell to Arms, A"
+51,52,"Veteran, The"
+52,53,False Impressions
+53,54,"Last Lecture, The"
+54,55,Return of the Primitive
+55,56,Jurassic Park
+56,57,"Russian Journal, A"
+57,58,Tales of Mystery and Imagination
+58,59,Freakonomics
+59,60,"Hidden Connections, The"
+60,61,"Story of Philosophy, The"
+61,62,Asami Asami
+62,63,Journal of a Novel
+63,64,Once There Was a War
+64,65,"Moon is Down, The"
+65,66,"Brethren, The"
+66,67,In a Free State
+67,68,Catch 22
+68,69,"Complete Mastermind, The"
+69,70,Dylan on Dylan
+70,71,Soft Computing & Intelligent Systems
+71,72,Textbook of Economic Theory
+72,73,Econometric Analysis
+73,74,Learning OpenCV
+74,75,Data Structures Using C & C++
+75,76,"Computer Vision, A Modern Approach"
+76,77,Principles of Communication Systems
+77,78,Let Us C
+78,79,"Amulet of Samarkand, The"
+79,80,Crime and Punishment
+80,81,Angels & Demons
+81,82,"Argumentative Indian, The"
+82,83,Sea of Poppies
+83,84,"Idea of Justice, The"
+84,85,"Raisin in the Sun, A"
+85,86,All the President's Men
+86,87,"Prisoner of Birth, A"
+87,88,Scoop!
+88,89,Ahe Manohar Tari
+89,90,"Last Mughal, The"
+90,91,"Social Choice & Welfare, Vol 39 No. 1"
+91,92,Radiowaril Bhashane & Shrutika
+92,93,Gun Gayin Awadi
+93,94,Aghal Paghal
+94,95,Maqta-e-Ghalib
+95,96,Beyond Degrees
+96,97,Manasa
+97,98,India from Midnight to Milennium
+98,99,"World's Greatest Trials, The"
+99,100,"Great Indian Novel, The"
+100,101,O Jerusalem!
+101,102,"City of Joy, The"
+102,103,Freedom at Midnight
+103,104,"Winter of Our Discontent, The"
+104,105,On Education
+105,106,Free Will
+106,107,Bookless in Baghdad
+107,108,"Case of the Lame Canary, The"
+108,109,"Theory of Everything, The"
+109,110,New Markets & Other Essays
+110,111,Electric Universe
+111,112,"Hunchback of Notre Dame, The"
+112,113,Burning Bright
+113,114,"Age of Discontuinity, The"
+114,115,Doctor in the Nude
+115,116,Down and Out in Paris & London
+116,117,Identity & Violence
+117,118,Beyond the Three Seas
+118,119,"World's Greatest Short Stories, The"
+119,120,Talking Straight
+120,121,"Maugham's Collected Short Stories, Vol 3"
+121,122,"Phantom of Manhattan, The"
+122,123,Ashenden of The British Agent
+123,124,Zen & The Art of Motorcycle Maintenance
+124,125,"Great War for Civilization, The"
+125,126,We the Living
+126,127,"Artist and the Mathematician, The"
+127,128,History of Western Philosophy
+128,129,Selected Short Stories
+129,130,Rationality & Freedom
+130,131,Clash of Civilizations and Remaking of the World Order
+131,132,Uncommon Wisdom
+132,133,One
+133,134,Karl Marx Biography
+134,135,To Sir With Love
+135,136,Half A Life
+136,137,"Discovery of India, The"
+137,138,Apulki
+138,139,Unpopular Essays
+139,140,"Deceiver, The"
+140,141,Veil: Secret Wars of the CIA
+141,142,Char Shabda
+142,143,Rosy is My Relative
+143,144,"Moon and Sixpence, The"
+144,145,Political Philosophers
+145,146,"Short History of the World, A"
+146,147,"Trembling of a Leaf, The"
+147,148,Doctor on the Brain
+148,149,Simpsons & Their Mathematical Secrets
+149,150,Pattern Classification
+150,151,From Beirut to Jerusalem
+151,152,"Code Book, The"
+152,153,"Age of the Warrior, The"
+153,154,Final Crisis
+154,155,"Killing Joke, The"
+155,156,Flashpoint
+156,157,Batman Earth One
+157,158,Crisis on Infinite Earths
+158,159,"Numbers Behind Numb3rs, The"
+159,160,Superman Earth One - 1
+160,161,Superman Earth One - 2
+161,162,Justice League: Throne of Atlantis
+162,163,Justice League: The Villain's Journey
+163,164,"Death of Superman, The"
+164,165,History of the DC Universe
+165,166,Batman: The Long Halloween
+166,167,"Life in Letters, A"
+167,168,"Information, The"
+168,169,"Journal of Economics, vol 106 No 3"
+169,170,Elements of Information Theory
+170,171,Power Electronics - Rashid
+171,172,Power Electronics - Mohan
+172,173,Neural Networks
+173,174,"Grapes of Wrath, The"
+174,175,Vyakti ani Valli
+175,176,Statistical Learning Theory
+176,177,Empire of the Mughal - The Tainted Throne
+177,178,Empire of the Mughal - Brothers at War
+178,179,Empire of the Mughal - Ruler of the World
+179,180,Empire of the Mughal - The Serpent's Tooth
+180,181,Empire of the Mughal - Raiders from the North
+181,182,Mossad
+182,183,Jim Corbett Omnibus
+183,184,20000 Leagues Under the Sea
+184,185,Batatyachi Chal
+185,186,Hafasavnuk
+186,187,Urlasurla
+187,188,Pointers in C
+188,189,"Cathedral and the Bazaar, The"
+189,190,Design with OpAmps
+190,191,Think Complexity
+191,192,"Devil's Advocate, The"
+192,193,Ayn Rand Answers
+193,194,Philosophy: Who Needs It
+194,195,"World's Great Thinkers, The"
+195,196,Data Analysis with Open Source Tools
+196,197,Broca's Brain
+197,198,Men of Mathematics
+198,199,Oxford book of Modern Science Writing
+199,200,"Justice, Judiciary and Democracy"
+200,201,"Arthashastra, The"
+201,202,We the People
+202,203,We the Nation
+203,204,"Courtroom Genius, The"
+204,205,Dongri to Dubai
+205,206,"History of England, Foundation"
+206,207,City of Djinns
+207,208,India's Legal System
+208,209,More Tears to Cry
+209,210,"Ropemaker, The"
+210,211,Angels & Demons
+211,212,"Judge, The"
+212,213,"Attorney, The"
+213,214,"Prince, The"
+214,215,Eyeless in Gaza
+215,216,Tales of Beedle the Bard
+216,217,Girl with the Dragon Tattoo
+217,218,Girl who kicked the Hornet's Nest
+218,219,Girl who played with Fire
+219,220,Batman Handbook
+220,221,Murphy's Law
+221,222,Structure and Randomness
+222,223,Image Processing with MATLAB
+223,224,Animal Farm
+224,225,"Idiot, The"
+225,226,"Christmas Carol, A"
+226,227,Fundamentals of Wavelets
+227,228,Data Smart
+228,229,God Created the Integers
+229,230,Superfreakonomics
+230,231,Orientalism
+231,232,"Nature of Statistical Learning Theory, The"
+232,233,Integration of the Indian States
+233,234,"Drunkard's Walk, The"
+234,235,Image Processing & Mathematical Morphology
+235,236,How to Think Like Sherlock Holmes
+236,237,Data Scientists at Work
+237,238,Slaughterhouse Five
+238,239,Birth of a Theorem
+239,240,Structure & Interpretation of Computer Programs
+240,241,"Age of Wrath, The"
+241,242,"Trial, The"
+242,243,Statistical Decision Theory'
+243,244,Data Mining Handbook
+244,245,"New Machiavelli, The"
+245,246,Physics & Philosophy
+246,247,Making Software
+247,248,"Analysis, Vol I"
+248,249,Machine Learning for Hackers
+249,250,"Signal and the Noise, The"
+250,251,Python for Data Analysis
+251,252,Introduction to Algorithms
+252,253,"Beautiful and the Damned, The"
+253,254,"Outsider, The"
+254,255,"Complete Sherlock Holmes, The - Vol I"
+255,256,"Complete Sherlock Holmes, The - Vol II"
+256,257,"Wealth of Nations, The"
+257,258,"Pillars of the Earth, The"
+258,259,Mein Kampf
+259,260,"Tao of Physics, The"
+260,261,Surely You're Joking Mr Feynman
+261,262,"Farewell to Arms, A"
+262,263,"Veteran, The"
+263,264,False Impressions
+264,265,"Last Lecture, The"
+265,266,Return of the Primitive
+266,267,Jurassic Park
+267,268,"Russian Journal, A"
+268,269,Tales of Mystery and Imagination
+269,270,Freakonomics
+270,271,"Hidden Connections, The"
+271,272,"Story of Philosophy, The"
+272,273,Asami Asami
+273,274,Journal of a Novel
+274,275,Once There Was a War
+275,276,"Moon is Down, The"
+276,277,"Brethren, The"
+277,278,In a Free State
+278,279,Catch 22
+279,280,"Complete Mastermind, The"
+280,281,Dylan on Dylan
+281,282,Soft Computing & Intelligent Systems
+282,283,Textbook of Economic Theory
+283,284,Econometric Analysis
+284,285,Learning OpenCV
+285,286,Data Structures Using C & C++
+286,287,"Computer Vision, A Modern Approach"
+287,288,Principles of Communication Systems
+288,289,Let Us C
+289,290,"Amulet of Samarkand, The"
+290,291,Crime and Punishment
+291,292,Angels & Demons
+292,293,"Argumentative Indian, The"
+293,294,Sea of Poppies
+294,295,"Idea of Justice, The"
+295,296,"Raisin in the Sun, A"
+296,297,All the President's Men
+297,298,"Prisoner of Birth, A"
+298,299,Scoop!
+299,300,Ahe Manohar Tari
+300,301,"Last Mughal, The"
+301,302,"Social Choice & Welfare, Vol 39 No. 1"
+302,303,Radiowaril Bhashane & Shrutika
+303,304,Gun Gayin Awadi
+304,305,Aghal Paghal
+305,306,Maqta-e-Ghalib
+306,307,Beyond Degrees
+307,308,Manasa
+308,309,India from Midnight to Milennium
+309,310,"World's Greatest Trials, The"
+310,311,"Great Indian Novel, The"
+311,312,O Jerusalem!
+312,313,"City of Joy, The"
+313,314,Freedom at Midnight
+314,315,"Winter of Our Discontent, The"
+315,316,On Education
+316,317,Free Will
+317,318,Bookless in Baghdad
+318,319,"Case of the Lame Canary, The"
+319,320,"Theory of Everything, The"
+320,321,New Markets & Other Essays
+321,322,Electric Universe
+322,323,"Hunchback of Notre Dame, The"
+323,324,Burning Bright
+324,325,"Age of Discontuinity, The"
+325,326,Doctor in the Nude
+326,327,Down and Out in Paris & London
+327,328,Identity & Violence
+328,329,Beyond the Three Seas
+329,330,"World's Greatest Short Stories, The"
+330,331,Talking Straight
+331,332,"Maugham's Collected Short Stories, Vol 3"
+332,333,"Phantom of Manhattan, The"
+333,334,Ashenden of The British Agent
+334,335,Zen & The Art of Motorcycle Maintenance
+335,336,"Great War for Civilization, The"
+336,337,We the Living
+337,338,"Artist and the Mathematician, The"
+338,339,History of Western Philosophy
+339,340,Selected Short Stories
+340,341,Rationality & Freedom
+341,342,Clash of Civilizations and Remaking of the World Order
+342,343,Uncommon Wisdom
+343,344,One
+344,345,Karl Marx Biography
+345,346,To Sir With Love
+346,347,Half A Life
+347,348,"Discovery of India, The"
+348,349,Apulki
+349,350,Unpopular Essays
+350,351,"Deceiver, The"
+351,352,Veil: Secret Wars of the CIA
+352,353,Char Shabda
+353,354,Rosy is My Relative
+354,355,"Moon and Sixpence, The"
+355,356,Political Philosophers
+356,357,"Short History of the World, A"
+357,358,"Trembling of a Leaf, The"
+358,359,Doctor on the Brain
+359,360,Simpsons & Their Mathematical Secrets
+360,361,Pattern Classification
+361,362,From Beirut to Jerusalem
+362,363,"Code Book, The"
+363,364,"Age of the Warrior, The"
+364,365,Final Crisis
+365,366,"Killing Joke, The"
+366,367,Flashpoint
+367,368,Batman Earth One
+368,369,Crisis on Infinite Earths
+369,370,"Numbers Behind Numb3rs, The"
+370,371,Superman Earth One - 1
+371,372,Superman Earth One - 2
+372,373,Justice League: Throne of Atlantis
+373,374,Justice League: The Villain's Journey
+374,375,"Death of Superman, The"
+375,376,History of the DC Universe
+376,377,Batman: The Long Halloween
+377,378,"Life in Letters, A"
+378,379,"Information, The"
+379,380,"Journal of Economics, vol 106 No 3"
+380,381,Elements of Information Theory
+381,382,Power Electronics - Rashid
+382,383,Power Electronics - Mohan
+383,384,Neural Networks
+384,385,"Grapes of Wrath, The"
+385,386,Vyakti ani Valli
+386,387,Statistical Learning Theory
+387,388,Empire of the Mughal - The Tainted Throne
+388,389,Empire of the Mughal - Brothers at War
+389,390,Empire of the Mughal - Ruler of the World
+390,391,Empire of the Mughal - The Serpent's Tooth
+391,392,Empire of the Mughal - Raiders from the North
+392,393,Mossad
+393,394,Jim Corbett Omnibus
+394,395,20000 Leagues Under the Sea
+395,396,Batatyachi Chal
+396,397,Hafasavnuk
+397,398,Urlasurla
+398,399,Pointers in C
+399,400,"Cathedral and the Bazaar, The"
+400,401,Design with OpAmps
+401,402,Think Complexity
+402,403,"Devil's Advocate, The"
+403,404,Ayn Rand Answers
+404,405,Philosophy: Who Needs It
+405,406,"World's Great Thinkers, The"
+406,407,Data Analysis with Open Source Tools
+407,408,Broca's Brain
+408,409,Men of Mathematics
+409,410,Oxford book of Modern Science Writing
+410,411,"Justice, Judiciary and Democracy"
+411,412,"Arthashastra, The"
+412,413,We the People
+413,414,We the Nation
+414,415,"Courtroom Genius, The"
+415,416,Dongri to Dubai
+416,417,"History of England, Foundation"
+417,418,City of Djinns
+418,419,India's Legal System
+419,420,More Tears to Cry
+420,421,"Ropemaker, The"
+421,422,Angels & Demons
+422,423,"Judge, The"
+423,424,"Attorney, The"
+424,425,"Prince, The"
+425,426,Eyeless in Gaza
+426,427,Tales of Beedle the Bard
+427,428,Girl with the Dragon Tattoo
+428,429,Girl who kicked the Hornet's Nest
+429,430,Girl who played with Fire
+430,431,Batman Handbook
+431,432,Murphy's Law
+432,433,Structure and Randomness
+433,434,Image Processing with MATLAB
+434,435,Animal Farm
+435,436,"Idiot, The"
+436,437,"Christmas Carol, A"

@@ -31,7 +31,10 @@ MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
 # Application definition
 
 INSTALLED_APPS = [
+<<<<<<< HEAD
     'student.apps.StudentConfig',
+=======
+>>>>>>> 52728c6a1b545fa665e6e02a964256ea24ac16b6
     'books.apps.BooksConfig',
     'book.apps.BookConfig',
     'django.contrib.admin',

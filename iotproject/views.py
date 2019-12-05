@@ -1,11 +1,20 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from books.models import Books
+<<<<<<< HEAD
 from gtts import gTTS 
 import os
 import datetime
 from student.models import Student
 from django.contrib import messages
+=======
+import pyttsx3
+
+engine = pyttsx3.init()
+
+engine.setProperty('rate',150)
+engine.setProperty('volume', 0.9)
+>>>>>>> 52728c6a1b545fa665e6e02a964256ea24ac16b6
 
 from plotly.offline import plot
 from plotly.graph_objs import Scatter
@@ -13,6 +22,7 @@ from plotly.graph_objs import Scatter
 language = 'en'
 
 def homepage(request):
+<<<<<<< HEAD
     book = Books.objects.all().count()
     stud = Student.objects.all().count()
     count = book*10-stud
@@ -128,3 +138,22 @@ def graph(request):
 
 
 
+=======
+	if (request.method=='POST'):
+		text = request.POST['q']
+
+		all_result = Books.objects.filter(title__icontains=text)
+
+		if all_result:
+			for result in all_result:
+				print(result.title)
+				# engine.say(result.title)
+
+				# engine.run()
+			return render(request,'test.html',{'results':all_result, 'input': text})
+		else:
+			return render(request,'test.html',{'error':'No Book Template', 'input': text})
+
+	else :
+		return render(request, 'index.html')
+>>>>>>> 52728c6a1b545fa665e6e02a964256ea24ac16b6
