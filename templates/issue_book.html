@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<h3 class="text-muted">Book: {{ book_name }}</h3>
+	<div class="container mt-auto" style="width: 500px;">
+			
+			<form action="issuethisbook" method="post">
+				{% csrf_token %}
+				<label class="control-label">Student Name</label>
+				<input type="text" class="form-control" name="student_name">	
+				<input type="hidden" class="form-control" name="book_name" value={{ book_name }}>	
+					
+				<input type="submit" name="Issue Book" class="btn btn-success mt-4">
+			</form>
+		</div>
+
+{% endblock %}

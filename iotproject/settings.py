@@ -26,11 +26,14 @@ SECRET_KEY = 'y*ye^tlr)w8q$iwbd@#so!$3l773o*txqt#8#fc_kp2w#4@g=f'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
 
 # Application definition
 
 INSTALLED_APPS = [
+    'student.apps.StudentConfig',
+    'books.apps.BooksConfig',
+    'book.apps.BookConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

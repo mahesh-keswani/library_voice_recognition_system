@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<style>
+body{
+    background-color:whitesmoke;
+}
+
+</style>
+<h2 class = "page-header mt-3 mb-4">Books History</h2>
+<div class="container">
+<table class="table table-striped">
+	<tr>
+		<th>Name</th>
+		<th>Number of times book issued</th>
+		<th>Issue History</th>
+	</tr>
+	{% for a, b in name %}
+		<tr>
+			<td>{{ a }}</td>
+			<td>{{ b.0 }}</td>
+			<td>
+		        <form action="{% url 'graph' %}" method="get">
+		        	<!-- {% csrf_token %} -->
+		            <input type="submit" name="book_history" class="btn btn-info float-right" value="See">
+		            <input type="hidden" name="book_id" value={{b.1}}>
+		        </form>    
+			</td>
+		</tr>
+	{% endfor %}
+</table>
+	
+</div>
+{% endblock %}
